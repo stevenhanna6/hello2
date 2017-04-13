@@ -27,11 +27,3 @@ last master
 
 still on master
 
-
-cahrlie addition
-=======
-
-last beta
-
-
-charrrrrrrliew
